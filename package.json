@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec ./tests"
+    "test": ""./node_modules/.bin/mocha --reporter spec"
   },
   "author": "Tamires",
   "license": "BSD-2-Clause",
