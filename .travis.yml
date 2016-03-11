@@ -7,4 +7,4 @@ node_js:
   notifications:
   slack:
     on_success: never
-    on_failure:never
+    on_failure: never
