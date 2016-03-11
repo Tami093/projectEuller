@@ -1,4 +1,4 @@
-#Roman to Decimal
+#Roman to Decimal.
 
 In this challenge, you will be given a number in roman numeral form and must print out its integer value.
 
